@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: rgb(241, 239, 235);
+    color: rgb(66, 29, 4);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.brick {
+    width: 15px;
+    height: 15px;
+    background-color: violet;
+    margin: 5;
+}
+
+.space {
+    width: 15px;
+    height: 15px;
+    background-color: rgb(241, 239, 235);
+    margin: 5;
+}
+
+#pyramidID {
+    padding-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+}

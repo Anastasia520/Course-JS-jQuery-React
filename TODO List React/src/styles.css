@@ -1,0 +1,28 @@
+body{
+    background: lightyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: purple;
+}
+.container{
+    border: 5px solid pink;
+    text-align: center;
+}
+.title{
+    font-size: 70px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightblue;
+}
+.btn{
+    text-align: center;
+    color: lightblue;
+    background-color: white;
+    font-size: 20px;
+}
+input{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightblue;
+    font-size: 20px;
+}

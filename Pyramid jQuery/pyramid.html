@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pyramid</title>
+        <link rel="stylesheet" href="pyramid.css">
+    </head>
+    <body>
+      <h1>Create the pyramid</h1>
+      <form>
+        <label>Brick color: 
+                <input type="color" id="selectorColor"/>
+        </label>
+        <label>How high?   
+        <input type="range" id="highRange" max="20" min="1"  step="1"/>
+        </label> 
+      </form>
+      <form id="pyramidID">
+          <div id="pyramid"> </div>
+      </form>
+      <script type="text/javascript" src="jquery-3.6.0.min.js"></script>
+      <script src="pyramid.js"></script>
+    </body>
+</html>
